@@ -1,3 +1,11 @@
+# it is a basic Chat app using only ReactJs  Firebase and chakraUi  only....
+# It hav basic functionality like sign in using goggle Email Then chat directly...
+# It use Firebase library totaly... Like------>>>>-----> 
+        GoogleAuth , SignInWithPopUp ,SignOut , getAuth......Many more.
+# Here is the DeployMent Link :: ({    })
+
+# Inspired U can say Leaning from 6PackProgrammer....
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
